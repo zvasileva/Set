@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/d1lyq2ryelk1h9t4?svg=true)](https://ci.appveyor.com/project/zvasileva/methods)
+[![Build status](https://ci.appveyor.com/api/projects/status/xni49h0cilfh8jwi?svg=true)](https://ci.appveyor.com/project/zvasileva/set)
